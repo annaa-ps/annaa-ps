@@ -1,14 +1,11 @@
-### Hi! I'm Anna...
+## Hi! I'm Anna...
 🎓 I'm studying Computer Science at the Federal University of Uberlândia - UFU    
 💻 I'm stydying C and Python
 
 ## GitHub Stats
-<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaa-ps&count_private==true&&include_all_commits=true&hide=prs&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&line_height=25&locale=en&PAT)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaa-ps&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&PAT_1)
-
-
 
 ## Informations
 <div>
@@ -22,3 +19,5 @@
   <img align="center" alt="Assuncao-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+![Snake animation](https://github.com/annaa-ps/annaa-ps/blob/output/github-contribution-grid-snake.svg) 
