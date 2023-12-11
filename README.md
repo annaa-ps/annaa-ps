@@ -3,7 +3,7 @@
 💻 I'm stydying C and Python
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaa-ps&count_private==true&&include_all_commits=true&hide=prs&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&line_height=25&locale=en&PAT)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaa-ps&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaa-ps&hide_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&PAT_1)](https://github.com/annaa-ps/github-readme-stats) 
 
 ## Informations
