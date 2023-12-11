@@ -2,8 +2,13 @@
 🎓 I'm studying Computer Science at the Federal University of Uberlândia - UFU    
 💻 I'm stydying C and Python
 
-## Informations
+## GitHub Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaa-ps&count_private==true&&include_all_commits=true&hide=prs&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&line_height=25&locale=en&PAT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaa-ps&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&PAT_1)
+
+
+## Informations
 <div>
   <a href="(https://instagram.com/_annaa.ps?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:annakarolynaptu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
