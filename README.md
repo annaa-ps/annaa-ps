@@ -4,12 +4,9 @@
 
 ## GitHub Stats
 <div>
-  <a href="https://github.com/annaa-ps">
-  <img heigth="180cm" src="https:://github-readme-stats.vercel.app/api?username=annaa-ps&show_icons
-    true&thrme=dracula&include_all_commits=true&count_private=true"/> 
-  
-  <img height="180cm" scr="httos://github=readme=stats.vercel.app/api/
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaa-ps&count_private==true&&include_all_commits=true&hide=prs&show_icons=true&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&line_height=25&locale=en&PAT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaa-ps&hide_border=false&title_color=A0A0A0&text_color=D3D3D3&icon_color=483D8B&bg_color=101010&include_all_commits=true&PAT_1)
 
 
 
