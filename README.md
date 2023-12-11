@@ -5,7 +5,11 @@
 ## GitHub Stats
 <div>
   <a href="https://github.com/annaa-ps">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaa-ps)](https://github.com/anuraghazra/github-readme-stats)
+  <img heigth="180cm" src="https:://github-readme-stats.vercel.app/api?username=annaa-ps&show_icons
+    true&thrme=dracula&include_all_commits=true&count_private=true"/> 
+  
+  <img height="180cm" scr="httos://github=readme=stats.vercel.app/api/
+  
 
 
 
