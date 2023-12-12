@@ -4,8 +4,8 @@
 
 ## GitHub Stats
 <div>
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=annaa-ps&theme=midnight-purple&show_icons=true" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=annaa-ps&layout=compact&langs_count=16&theme=midnight-purple" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=annaa-ps&theme=midnight-purple&show_icons=true" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=annaa-ps&layout=compact&langs_count=16&theme=midnight-purple" />
 
 ## Informations
 <div>
