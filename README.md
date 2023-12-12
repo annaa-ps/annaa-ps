@@ -3,12 +3,9 @@
 💻 I'm stydying C and Python
 
 ## GitHub Stats
-<a href="https://github.com/annaa-ps/github-readme-stats">
+<div>
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=annaa-ps&theme=midnight-purple&show_icons=true" />
-</a>
-<a href="https://github.com/annaa-ps/convoychat">
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=annaa-ps&layout=compact&langs_count=16&theme=midnight-purple" />
-</a>
 
 ## Informations
 <div>
