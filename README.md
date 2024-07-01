@@ -5,7 +5,7 @@
 ## GitHub Stats
 <div>
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=annaa-ps&theme=midnight-purple&show_icons=true" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaa-ps&layout=compact&theme=midnight-purple&show_icons=true" />
+
  
 </div>  
 
