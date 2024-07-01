@@ -1,7 +1,7 @@
 ## Hi! I'm Anna...
 🎓 I'm studying Computer Science at the Federal University of Uberlândia - UFU    
-💻 I'm stydying C and Java
-
+💻I'm stydying C and Java
+  
 ## GitHub Stats
 <div>
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=annaa-ps&theme=midnight-purple&show_icons=true" />
