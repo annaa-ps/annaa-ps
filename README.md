@@ -1,6 +1,6 @@
 ## Hi! I'm Anna...
 🎓 I'm studying Computer Science at the Federal University of Uberlândia - UFU    
-💻I'm stydying C and Java
+
   
 ## GitHub Stats
 <div>
