@@ -14,6 +14,8 @@
   <img align="center" alt="Anna-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Anna-Haskell" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg">
   <img align="center" alt="Anna-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg">
+  <img align="center" alt="Anna-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+  <img align="center" alt="Anna-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
   
 ##
